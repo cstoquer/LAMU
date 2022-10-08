@@ -1,0 +1,580 @@
+{
+  "uuid": "64fb98729f11e504c045f43c34577187",
+  "path": "Offline/LAMU",
+  "name": "LAMU",
+  "content": "",
+  "created_at": "2022-08-20 15:46:02",
+  "updated_at": "2022-09-23 16:22:28",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "83158908501311ab4f79da127a94b866",
+      "title": "LAMU",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "c86086f73f0e4ac390304cddc92a03fc": 1,
+        "3a58e8deac2f343ad16016c690ddfb7a": 1,
+        "c1199e6b8d8d43e7810af5c46a15f071": 1,
+        "4ef6cc0d850242f0a6847ae2c290bf23": 1,
+        "eaa76950fd7343a1953943ee7b9978d3": 1,
+        "02c970ed152a47e488ca26dd549490e1": 4,
+        "1185529c015041d29d4d63d2a865f50f": 2,
+        "776b1a0cd1e94631b4cd230b438095ee": 2,
+        "0ec2a202a8724222af86d21c0641c55f": 1,
+        "dbfa7da092bc44faa13a86aaa683160b": 6,
+        "d06fd183e0b742e191bf48a41812063c": 2,
+        "f0bc163659d742bc8f021d00cdeb85b2": 15,
+        "fcaba4851eda4ca19d4326a668633a30": 1,
+        "e33cc1be9d5e4d929dda60b4eb023d72": 6,
+        "b28bbfe35d724b74b4e75265a3907cd9": 1,
+        "1e78abbe2e5d43d9a5ef432c3583658a": 1,
+        "c667b32734d54efd8015010524ba9d36": 1,
+        "4b1cd1d520b147588b05d282ad653846": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "TS",
+          2,
+          "SPARKFUN-SWITCHES_TACTILE_SWITCH_PTH_6.0MM",
+          "BTN1,BTN2",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "db78460d56ea4f3ca5c850af273e47c7",
+            "uuid": "1185529c015041d29d4d63d2a865f50f"
+          }
+        ],
+        [
+          "45n",
+          2,
+          "RAD-0.1",
+          "C1,C2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ea82fbe34d7840de9fdcf3145ab199ef",
+            "uuid": "dbfa7da092bc44faa13a86aaa683160b"
+          }
+        ],
+        [
+          "10u",
+          2,
+          "CAP-D5.0×F2.0",
+          "C3,C4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "9ab4ba27487f4e968ec8c676394520e2",
+            "uuid": "d06fd183e0b742e191bf48a41812063c"
+          }
+        ],
+        [
+          "100n",
+          2,
+          "RAD-0.1",
+          "C5,C8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ea82fbe34d7840de9fdcf3145ab199ef",
+            "uuid": "dbfa7da092bc44faa13a86aaa683160b"
+          }
+        ],
+        [
+          "1n",
+          2,
+          "RAD-0.1",
+          "C6,C7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ea82fbe34d7840de9fdcf3145ab199ef",
+            "uuid": "dbfa7da092bc44faa13a86aaa683160b"
+          }
+        ],
+        [
+          "1N4007W",
+          6,
+          "DIODE-1N4148",
+          "D1,D2,D3,D4,D5,D6",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C328592",
+            "BOM_Manufacturer": "BLUE ROCKET",
+            "BOM_Manufacturer Part": "1N4007W",
+            "puuid": "f9a0a4f74e4b4f54a314a75326ccb862",
+            "uuid": "e33cc1be9d5e4d929dda60b4eb023d72"
+          }
+        ],
+        [
+          "EMI",
+          2,
+          "EMI FILTER",
+          "EMI1,EMI2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "c4f10d2906c14a7abde66bcedb2a679c",
+            "uuid": "4b1cd1d520b147588b05d282ad653846"
+          }
+        ],
+        [
+          "cvT",
+          1,
+          "THONKICONN",
+          "J1",
+          {
+            "BOM_Manufacturer Part": "Thonk",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "e8aa9b163da54d75a1bf19cd2392f9bb",
+            "uuid": "02c970ed152a47e488ca26dd549490e1"
+          }
+        ],
+        [
+          "cvX",
+          1,
+          "THONKICONN",
+          "J2",
+          {
+            "BOM_Manufacturer Part": "Thonk",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "e8aa9b163da54d75a1bf19cd2392f9bb",
+            "uuid": "02c970ed152a47e488ca26dd549490e1"
+          }
+        ],
+        [
+          "cvY",
+          1,
+          "THONKICONN",
+          "J3",
+          {
+            "BOM_Manufacturer Part": "Thonk",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "e8aa9b163da54d75a1bf19cd2392f9bb",
+            "uuid": "02c970ed152a47e488ca26dd549490e1"
+          }
+        ],
+        [
+          "OUT",
+          1,
+          "THONKICONN",
+          "J4",
+          {
+            "BOM_Manufacturer Part": "Thonk",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "e8aa9b163da54d75a1bf19cd2392f9bb",
+            "uuid": "02c970ed152a47e488ca26dd549490e1"
+          }
+        ],
+        [
+          "display",
+          1,
+          "HDR-F-2.54_1X4",
+          "OLED",
+          {
+            "BOM_Supplier Part": "C225501",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "21473b495b6340c992965357d5701779",
+            "uuid": "eaa76950fd7343a1953943ee7b9978d3"
+          }
+        ],
+        [
+          "POW",
+          1,
+          "IDC-TH_16P-P2.54_C3406",
+          "P1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "BOOMELE",
+            "BOM_Manufacturer Part": "IDC Box 2.54mm 16P　Straight",
+            "BOM_Supplier Part": "C3406",
+            "puuid": "1eacb86c820e48ae8f4bb880cd2189e7",
+            "uuid": "3a58e8deac2f343ad16016c690ddfb7a"
+          }
+        ],
+        [
+          "FadX",
+          1,
+          "BEFACO 30MM SLIDER POTENTIOMETER",
+          "R1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "c16eff1d9a9d49eda01b547f9d0fd797",
+            "uuid": "776b1a0cd1e94631b4cd230b438095ee"
+          }
+        ],
+        [
+          "FadY",
+          1,
+          "BEFACO 30MM SLIDER POTENTIOMETER",
+          "R2",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "c16eff1d9a9d49eda01b547f9d0fd797",
+            "uuid": "776b1a0cd1e94631b4cd230b438095ee"
+          }
+        ],
+        [
+          "8k2",
+          2,
+          "VERTICAL RESISTOR",
+          "R3,R4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "9ac21f33d4aa49afa405e4ed73a5a8ab",
+            "uuid": "f0bc163659d742bc8f021d00cdeb85b2"
+          }
+        ],
+        [
+          "330k",
+          1,
+          "VERTICAL RESISTOR",
+          "R5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "9ac21f33d4aa49afa405e4ed73a5a8ab",
+            "uuid": "f0bc163659d742bc8f021d00cdeb85b2"
+          }
+        ],
+        [
+          "1k",
+          2,
+          "VERTICAL RESISTOR",
+          "R6,R15",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "9ac21f33d4aa49afa405e4ed73a5a8ab",
+            "uuid": "f0bc163659d742bc8f021d00cdeb85b2"
+          }
+        ],
+        [
+          "220",
+          2,
+          "VERTICAL RESISTOR",
+          "R7,R14",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "9ac21f33d4aa49afa405e4ed73a5a8ab",
+            "uuid": "f0bc163659d742bc8f021d00cdeb85b2"
+          }
+        ],
+        [
+          "22k",
+          2,
+          "VERTICAL RESISTOR",
+          "R8,R13",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "9ac21f33d4aa49afa405e4ed73a5a8ab",
+            "uuid": "f0bc163659d742bc8f021d00cdeb85b2"
+          }
+        ],
+        [
+          "47k",
+          2,
+          "VERTICAL RESISTOR",
+          "R9,R12",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "9ac21f33d4aa49afa405e4ed73a5a8ab",
+            "uuid": "f0bc163659d742bc8f021d00cdeb85b2"
+          }
+        ],
+        [
+          "47R",
+          2,
+          "VERTICAL RESISTOR",
+          "R10,R11",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "9ac21f33d4aa49afa405e4ed73a5a8ab",
+            "uuid": "f0bc163659d742bc8f021d00cdeb85b2"
+          }
+        ],
+        [
+          "10k",
+          2,
+          "VERTICAL RESISTOR",
+          "R16,R17",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "9ac21f33d4aa49afa405e4ed73a5a8ab",
+            "uuid": "f0bc163659d742bc8f021d00cdeb85b2"
+          }
+        ],
+        [
+          "ROT_ENC",
+          1,
+          "ENCODER_ALPS-EC12E",
+          "SW1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "adc7cdcd68d4491e8fea8f205cf5500e",
+            "uuid": "0ec2a202a8724222af86d21c0641c55f"
+          }
+        ],
+        [
+          "50k",
+          1,
+          "RES-ADJ-TH_3323P",
+          "TRIM1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "e2108d190c9947a8a7d024b60a13a62c",
+            "uuid": "fcaba4851eda4ca19d4326a668633a30"
+          }
+        ],
+        [
+          "TEENSY-3.2",
+          1,
+          "TEENSY_TEENSY-3.2-PTH",
+          "U1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "fb52ec2f84484ef48a3244d68c34645c",
+            "uuid": "c86086f73f0e4ac390304cddc92a03fc"
+          }
+        ],
+        [
+          "SD CARD",
+          1,
+          "PJS008U-3000-0",
+          "U3",
+          {
+            "BOM_Manufacturer Part": "SF72S006VBAR2500",
+            "BOM_Supplier Part": "670-2799-1-ND",
+            "BOM_Supplier": "Digi-Key",
+            "puuid": "148cc0a58b9e4f99b406080ab7cfe94e",
+            "uuid": "4ef6cc0d850242f0a6847ae2c290bf23"
+          }
+        ],
+        [
+          "TL074IN",
+          1,
+          "PDIP-14_L19.3-W6.4-P2.54-LS7.9-BL-1",
+          "U2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C1346811",
+            "BOM_Manufacturer": "TI(德州仪器)",
+            "BOM_Manufacturer Part": "TL074IN",
+            "puuid": "7f0ad408a835483d8942d64d433787e6",
+            "uuid": "b28bbfe35d724b74b4e75265a3907cd9"
+          }
+        ]
+      ],
+      "updateTime": 1662112764,
+      "createTime": 1660977963,
+      "histories": [],
+      "created_at": "2022-08-20 15:46:03",
+      "updated_at": "2022-09-02 18:59:24"
+    },
+    {
+      "uuid": "d6db15ffc6468882429f94f42b027342",
+      "puuid": "64fb98729f11e504c045f43c34577187",
+      "title": "circuit",
+      "filename": "circuit.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "fb52ec2f84484ef48a3244d68c34645c": 1,
+        "9ab4ba27487f4e968ec8c676394520e2": 2,
+        "ea82fbe34d7840de9fdcf3145ab199ef": 6,
+        "e2108d190c9947a8a7d024b60a13a62c": 1,
+        "f9a0a4f74e4b4f54a314a75326ccb862": 6,
+        "9ac21f33d4aa49afa405e4ed73a5a8ab": 15,
+        "1eacb86c820e48ae8f4bb880cd2189e7": 1,
+        "7f0ad408a835483d8942d64d433787e6": 1,
+        "c4f10d2906c14a7abde66bcedb2a679c": 2,
+        "adc7cdcd68d4491e8fea8f205cf5500e": 1,
+        "148cc0a58b9e4f99b406080ab7cfe94e": 1,
+        "e8aa9b163da54d75a1bf19cd2392f9bb": 4,
+        "21473b495b6340c992965357d5701779": 1,
+        "db78460d56ea4f3ca5c850af273e47c7": 2,
+        "c16eff1d9a9d49eda01b547f9d0fd797": 2
+      },
+      "BOM": [],
+      "updateTime": 1663035588,
+      "createTime": 1660978984,
+      "histories": [],
+      "created_at": "2022-08-20 16:03:04",
+      "updated_at": "2022-09-13 11:19:48"
+    },
+    {
+      "uuid": "96a5cffb95548467165a85bc099f65ae",
+      "puuid": "64fb98729f11e504c045f43c34577187",
+      "title": "panel",
+      "filename": "panel.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {},
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "DSX840GT-4.9152MHZ",
+          1,
+          "CEDRIC CRYSTAL",
+          "NO",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C9900002742",
+            "BOM_Manufacturer Part": "DSX840GT-4.9152MHz",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "40765de64bc84c1d81c4b0d47585184f",
+            "uuid": "5b344c4621404bac99773e016b26b57e"
+          }
+        ],
+        [
+          "0.96OLED_4P",
+          1,
+          "0.96OLED_4P",
+          "OLED1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "88b7b62f56d14ce0a65d98c420c09d52",
+            "uuid": "eea74e3a16f548f383486f844f2fd995"
+          }
+        ],
+        [
+          "POW",
+          1,
+          "IDC-TH_10P-P2.54_C5665",
+          "P1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "BOOMELE",
+            "BOM_Manufacturer Part": "IDC Box 2.54mm 2X5P",
+            "BOM_Supplier Part": "C5665",
+            "puuid": "7a408c55b5434d9cb56749fdd2cd40fb",
+            "uuid": "427648b0c70c367fdee72686faf1550d"
+          }
+        ],
+        [
+          "ATMEGA328P",
+          1,
+          "DIP-28_L34.6-W7.3-P2.54-LS10.2-BL",
+          "U1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "MICROCHIP",
+            "BOM_Manufacturer Part": "ATMEGA328P-PU",
+            "BOM_Supplier Part": "C33901",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "2f1d96128ab94db491eae99d61bfb39c",
+            "uuid": "36628af0fe3849a2f482991ed56c81b7"
+          }
+        ],
+        [
+          "74HC165",
+          1,
+          "DIP-16_L20.0-W6.4-P2.54-LS7.6-BL",
+          "U4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C205941",
+            "BOM_Manufacturer": "Texas Instruments",
+            "BOM_Manufacturer Part": "CD74HC165E",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "f2561f0fa47346d3a02d341f9e29ef9e",
+            "uuid": "d0f8418bfd964382ad6b00af0fbdac91"
+          }
+        ],
+        [
+          "74HC595",
+          1,
+          "PDIP-16_L19.3-W6.4-P2.54-LS7.9-BL",
+          "U5",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2871902",
+            "BOM_Manufacturer": "TI(德州仪器)",
+            "BOM_Manufacturer Part": "CD74HC595E",
+            "puuid": "5274406e19354d008c5fde605f0c6ecf",
+            "uuid": "6b6ad5031ecd4298ae392a433e2722fb"
+          }
+        ],
+        [
+          "TL074",
+          2,
+          "PDIP-14_L19.3-W6.4-P2.54-LS7.9-BL-1",
+          "U2,U3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C1346811",
+            "BOM_Manufacturer": "TI(德州仪器)",
+            "BOM_Manufacturer Part": "TL074IN",
+            "puuid": "7f0ad408a835483d8942d64d433787e6",
+            "uuid": "b28bbfe35d724b74b4e75265a3907cd9"
+          }
+        ]
+      ],
+      "updateTime": 1663917748,
+      "createTime": 1660979352,
+      "histories": [],
+      "created_at": "2022-08-20 16:09:12",
+      "updated_at": "2022-09-23 16:22:28"
+    }
+  ],
+  "sort": [],
+  "title": "LAMU",
+  "foldername": "LAMU",
+  "schfilename": "LAMU.json",
+  "schfilemtime": 1662112764220
+}
